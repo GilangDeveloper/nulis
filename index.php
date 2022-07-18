@@ -57,7 +57,7 @@ if ($_POST) {
                             <textarea name="text" id="" class="form-control" placeholder="Masukan text yang akan di tulis..." rows="5px"></textarea>
                             <div class="mt-3">
                                 <button class="btn btn-primary">Nulis</button>
-                                <a href="nulis.php" class="btn btn-dark">Ulang</a>
+                                <a href="/" class="btn btn-dark">Ulang</a>
                             </div>
                         </li>
                     </ul>
